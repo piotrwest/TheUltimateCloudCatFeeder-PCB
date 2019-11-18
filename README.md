@@ -4,7 +4,7 @@
 
 This repository contains PCB board for the ultimate cloud cat feeder.
 
-**Use [Fritzing] program to open the files.
+**Use [Fritzing] program to open the files.**
 
 For a quick product demo, [check this short YouTube clip].
 
