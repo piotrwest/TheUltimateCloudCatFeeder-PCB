@@ -13,5 +13,5 @@ For a quick product demo, [check this short YouTube clip].
 [Head over to my blog].
 
 [check this short YouTube clip]: https://youtu.be/XG0LZ08-GsM
-[Head over to my blog]: https://piotr.westfalewicz.com/blog/tags/cat-feeder/
+[Head over to my blog]: https://piotr.westfalewicz.com/blog/2019/11/open-sourcing-the-pcb-of-the-ultimate-cloud-cat-feeder/
 [Fritzing]: https://fritzing.org/download/
